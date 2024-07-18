@@ -10,15 +10,6 @@
   box-sizing: border-box;
 }
 
-/* ul {
-  list-style: none;
-  width: 100%;
-  max-width: 40rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-} */
-
 a {
   text-decoration: none;
   color: white;
